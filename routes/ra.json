@@ -1,0 +1,40 @@
+[
+{
+    "id":"js_history1",
+    "title":"Roadmap to Access timeline 2013",
+    "description":"<p>Some description for the RA timeline.<\/p>",
+    "focus_date":"2013-01-21 12:00:00",
+    "initial_zoom":"39",
+    "image_lane_height":0,
+    "events":[
+
+        {
+            "id":1,
+            "title":"RA meeting",
+            "description":"Lorem ipsum  asof which was.",
+            "startdate":"1938-01-01 12:00:00",
+            "high_threshold":50,
+            "importance":50,
+            "image":"",
+            "link":"",
+            "date_display":"ye",
+            "icon":"triangle_orange.png"
+        },
+
+
+        {
+            "id":2,
+            "title":"XV ISRVI",
+            "description":"Lorem ipsum",
+            "startdate":"1943-12-01 12:00:00",
+            "high_threshold":50,
+            "importance":50,
+            "image":"",
+            "link":"",
+            "date_display":"ye",
+            "icon":"square_gray.png"
+        }
+
+    ]
+}
+]
